@@ -14,3 +14,4 @@ recognition.onresult = function(event){
     console.log(Content);
     document.getElementById("textbox").innerHTML = Content;
 }
+
